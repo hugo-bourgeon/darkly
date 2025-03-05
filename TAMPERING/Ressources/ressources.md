@@ -44,5 +44,5 @@ This vulnerability lets attackers manipulate client-side values that the applica
 
 [imperva.com (parameter-tampering)](https://www.imperva.com/learn/application-security/parameter-tampering/)
 
-📖 [Home](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
 
