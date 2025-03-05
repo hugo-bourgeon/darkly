@@ -7,7 +7,7 @@
 
 ## 📌 Extract
 
-Page: [http://{IP}/?page=survey](http://{IP}}/?page=survey)  
+Page: [http://{IP}/?page=survey](http://{IP}/?page=survey)  
 Modification: Inspect the `<select>` input and change a value.
 
 ```html
