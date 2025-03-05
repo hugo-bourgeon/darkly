@@ -11,4 +11,11 @@ This project helps you learn **pentesting techniques**, understand the mechanism
 
 ## 🔗 Table of contents
 
-- [TAMPERING](https://github.com/hugo-bourgeon/darkly/blob/main/TAMPERING/Ressources/ressources.md)
+- [CROSS_SITE_SCRIPTING_(XSS)](https://github.com/hugo-bourgeon/darkly/blob/main/CROSS_SITE_SCRIPTING_(XSS)/Ressources/ressources.md)
+- [REMOTE_FILE_INCLUSION_(RFI)](https://github.com/hugo-bourgeon/darkly/blob/main/REMOTE_FILE_INCLUSION_(RFI)/Ressources/ressources.md)
+- [LOCAL_FILE_INCLUSION_(LFI)](https://github.com/hugo-bourgeon/darkly/blob/main/LOCAL_FILE_INCLUSION_(LFI)/Ressources/ressources.md)
+- [PATH_TRAVERSAL](https://github.com/hugo-bourgeon/darkly/blob/main/PATH_TRAVERSAL/Ressources/ressources.md) 
+- [COOKIE_INJECTION](https://github.com/hugo-bourgeon/darkly/blob/main/COOKIE_INJECTION/Ressources/ressources.md)
+- [TAMPERING_INPUT](https://github.com/hugo-bourgeon/darkly/blob/main/TAMPERING_INPUT/Ressources/ressources.md)
+- [TAMPERING_BYPASS_RESTRICTION](https://github.com/hugo-bourgeon/darkly/tree/main/TAMPERING_BYPASS_RESTRICTION/Ressources/ressources.md)
+
