@@ -11,7 +11,7 @@ Page: [http://{IP}/index.php?page=../../../../../../../etc/passwd](http://{IP}/i
 
 The URL is manipulated by adding `../../` multiple times to perform a **Path Traversal attack**, moving up the directory structure. This enables access to the system’s /etc/passwd file. By navigating to this page, a pop-up appears showing a flag.
 
-![found flag sreenshot](image.png)
+![found flag sreenshot](flag.png)
 
 ## 🎯 Use
 The main goal of a Path Traversal attack is to access files or directories that are not intended to be accessed by the user. This can include:
