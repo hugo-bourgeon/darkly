@@ -19,3 +19,8 @@ This project helps you learn **pentesting techniques**, understand the mechanism
 - [TAMPERING_INPUT](https://github.com/hugo-bourgeon/darkly/blob/main/TAMPERING_INPUT/Ressources/ressources.md)
 - [TAMPERING_BYPASS_RESTRICTION](https://github.com/hugo-bourgeon/darkly/tree/main/TAMPERING_BYPASS_RESTRICTION/Ressources/ressources.md)
 
+## 🌱 Environment
+
+The **Darkly** project is conducted in a controlled and **isolated environment** to ensure security while testing vulnerabilities. The website is hosted on a **local server**, running on a **virtual machine** (i386) with a provided ISO.
+
+All attacks are performed **ethically** on the provided target, following **responsible disclosure principles**. 🛡️📜
