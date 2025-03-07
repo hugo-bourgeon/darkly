@@ -19,8 +19,20 @@ This project helps you learn **pentesting techniques**, understand the mechanism
 - [TAMPERING_INPUT](https://github.com/hugo-bourgeon/darkly/blob/main/TAMPERING_INPUT/Ressources/ressources.md)
 - [TAMPERING_BYPASS_RESTRICTION](https://github.com/hugo-bourgeon/darkly/tree/main/TAMPERING_BYPASS_RESTRICTION/Ressources/ressources.md)
 
+
+- [SQL_INJECTION_(Member_Brute_Force)](https://github.com/hugo-bourgeon/darkly/blob/main/SQL_INJECTION_(Member_Brute_Force)/Ressources/ressources.md)
+- [SQL_INJECTION_(Member_Images)](https://github.com/hugo-bourgeon/darkly/blob/main/SQL_INJECTION_(Member_Images)/Ressources/ressources.md)
+- [SQL_INJECTION_(Member_Sql_Injection)](https://github.com/hugo-bourgeon/darkly/blob/main/SQL_INJECTION_(Member_Sql_Injection)/Ressources/ressources.md)
+- [URL_BRUTE_FORCING](https://github.com/hugo-bourgeon/darkly/blob/main/URL_BRUTE_FORCING/Ressources/ressources.md)
+- [URL_BRUTE_FORCING_(2)](https://github.com/hugo-bourgeon/darkly/blob/main/URL_BRUTE_FORCING_(2)/Ressources/ressources.md)
+- [STORED_XSS](https://github.com/hugo-bourgeon/darkly/blob/main/STORED_XSS/Ressources/ressources.md)
+- [HEADER SPOOFING](https://github.com/hugo-bourgeon/darkly/blob/main/HEADER%20SPOOFING/Ressources/ressources.md)
+
+
 ## 🌱 Environment
 
 The **Darkly** project is conducted in a controlled and **isolated environment** to ensure security while testing vulnerabilities. The website is hosted on a **local server**, running on a **virtual machine** (i386) with a provided ISO.
+
+![vm image](images/image.png)
 
 All attacks are performed **ethically** on the provided target, following **responsible disclosure principles**. 🛡️📜
