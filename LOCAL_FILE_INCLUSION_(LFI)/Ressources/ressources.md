@@ -38,5 +38,5 @@ Use **tokens** or **internal mappings** instead of directly modifiable parameter
 [learn.snyk.io (open-redirect)](https://learn.snyk.io/lesson/open-redirect/)  
 [brightsec.com (open-redirect-vulnerabilities)](https://brightsec.com/blog/open-redirect-vulnerabilities/)
 
-### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#readme)
 

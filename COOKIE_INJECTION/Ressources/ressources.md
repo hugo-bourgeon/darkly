@@ -38,5 +38,5 @@ If the cookie is modified, the HMAC won't match, detecting tampering.
 [owasp.org (Session_hijacking_attack)](https://owasp.org/www-community/attacks/Session_hijacking_attack)  
 [motasem-notes.net (cookie-security-explained-owasp-top-10)](https://motasem-notes.net/cookie-security-explained-owasp-top-10/)
 
-### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#readme)
 

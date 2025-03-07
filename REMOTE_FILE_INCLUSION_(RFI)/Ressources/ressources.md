@@ -74,5 +74,5 @@ Sends an HTTP POST request to the website's upload page :
 [vaadata.com (exploitation-dune-faille-lfi)](https://www.vaadata.com/blog/fr/exploitation-dune-faille-lfi-local-file-inclusion-et-bonnes-pratiques-securite/)  
 [chocapikk.com (faille_upload)](https://chocapikk.com/posts/2023/faille_upload/)
 
-### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#readme)
 

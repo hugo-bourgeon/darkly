@@ -70,5 +70,5 @@ http://{IP}/?page=media&src=%3CMETA%20CONTENT=%220;url=data:text/html;base64,PHN
 [owasp.org (xss)](https://owasp.org/www-community/attacks/xss/)  
 [vaadata.com (failles-xss)](https://www.vaadata.com/blog/fr/failles-xss-principes-types-dattaques-exploitations-et-bonnes-pratiques-sec)
 
-### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#readme)
 

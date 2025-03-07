@@ -35,5 +35,5 @@ The main goal of a Path Traversal attack is to access files or directories that 
 [owasp.org (Path_Traversal)](https://owasp.org/www-community/attacks/Path_Traversal)  
 [zerothreat.ai (directory-traversal-attack-explained)](https://zerothreat.ai/blog/directory-traversal-attack-explained)  
 
-### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#README)
+### 📖 [Home page](https://github.com/hugo-bourgeon/darkly#readme)
 
